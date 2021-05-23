@@ -1,0 +1,5 @@
+- 👋 Hi, We're Level More, a premier mobile design firm with offices in San Francisco, Detroit, Berlin and Melbourne. 
+- 👀 We're interested in building beautiful and functional apps and contributing to the Open Source community. 
+- 🌱 We're currently focused on iOS and Android!
+- 💞️ We're looking for clients who want affordable, well-designed apps that impress end users. 
+- 📫 Reach out to us at hello@levelmore.co or visit us at https://levelmore.co/
